@@ -78,12 +78,12 @@
   /*--washed-red:  #ffdfdf;*/
 
   --blue: #28618d;
-  --navy-dark: #1b3548;
+  --dark-navy: #1b3548;
   --navy: #3f4753;
-  --navy-light: #647083;
-  --gray-dark: #dcdfe0;
+  --light-navy: #647083;
+  --dark-gray: #dcdfe0;
   --gray: #f1f4f5;
-  --gray-light: #f8f9fa;
-  --gold-dark: #ba8727;
+  --light-gray: #f8f9fa;
+  --dark-gold: #ba8727;
   --gold: #c99f50;
 }
